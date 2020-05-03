@@ -23,3 +23,8 @@ body {
 #card-title {
   font-weight: bold;
 }
+
+video {
+  width: 40%;
+  height: auto;
+}
